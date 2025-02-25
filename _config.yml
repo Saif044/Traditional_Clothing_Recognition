@@ -1,0 +1,10 @@
+remote_theme: jekyll-theme-chirpy@master
+plugins:
+- jekyll-remote-theme
+
+title: Traditional Clothing Recognition
+description: A neural network model that classifies 18 traditional outfits around the world.
+
+author:
+  name: Saiful Islam Tusher
+  
