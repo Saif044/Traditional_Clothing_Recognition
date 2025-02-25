@@ -1,4 +1,4 @@
-remote_theme: jekyll-theme-chirpy@master
+remote_theme: cotes2020/jekyll-theme-chirpy@master
 plugins:
 - jekyll-remote-theme
 
@@ -7,4 +7,3 @@ description: A neural network model that classifies 18 traditional outfits aroun
 
 author:
   name: Saiful Islam Tusher
-  
