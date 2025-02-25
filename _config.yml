@@ -1,4 +1,4 @@
-remote_theme: alshedivat/al-folio@master
+remote_theme: cotes2020/jekyll-theme-chirpy@master
 plugins:
 - jekyll-remote-theme
 
