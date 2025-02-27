@@ -5,7 +5,7 @@ layout: page
 # EthnicWearClassify - Traditional Clothing Recognition  
 
 ## Overview  
-EthnicWearClassify is an image recognition project that classifies traditional clothing from different cultures worldwide. Using machine learning, this model helps identify and categorize garments, promoting cultural heritage and enhancing applications in fashion, e-commerce, and research.  
+EthnicWearClassify is an image recognition project that classifies traditional clothing from different cultures worldwide. Using vision transformer, this model helps identify and categorize garments, promoting cultural heritage and enhancing applications in fashion, e-commerce, and research.  
 
 ## Features  
 - **Automated Traditional Attire Classification** – Recognizes clothing from various regions.  
