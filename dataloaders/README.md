@@ -1,1 +1,1 @@
-Download extracted data from here: https://drive.google.com/drive/folders/14CKgFlVQTZTDKaQusZr8mjDYMg4PLE_d?usp=sharing
+Get generated dataloaders here: https://drive.google.com/drive/folders/1sA1-PRkDd1ioqhPAL_EdWWMtpCRE8NZU?usp=drive_link
