@@ -113,9 +113,4 @@ A dedicated **web application** has been built that allows users to **interact w
     ```bash
     pip install -r requirements.txt
    ```
-
-3.  **Run the Gradio app**
-    ```bash
-    python app.py
-   ```
-
+3. **Run the Gradio app**
