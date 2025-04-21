@@ -96,6 +96,12 @@ Here are some examples of traditional clothing that the model can classify:
   <img src="preview\preview-2.png" alt="Example 2" width="45%"/>
 </p>
 
+### 🌐 Webpage
+
+A dedicated **web application** has been built that allows users to **interact with the deployed model via an API**. Users can upload images and receive real-time predictions for traditional clothing classification.
+
+🔗 **[Live Webpage](https://saif044.github.io/Traditional_Clothing_Recognition/)**  
+
 ## How to use
 
 1. **Clone the repository**
