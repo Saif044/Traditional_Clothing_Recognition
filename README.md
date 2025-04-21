@@ -85,8 +85,8 @@ epoch	train_loss	valid_loss	error_rate	accuracy	time
 
 The model is deployed using **Gradio** and hosted on **Hugging Face Spaces**, offering an interactive web-based interface where users can upload images and receive instant classification results.
 
-👉 **[Try the Demo on Hugging Face](https://huggingface.co/spaces/your-username/EthnicWearClassify)**  
-*(Replace with your actual Hugging Face Spaces URL)*
+👉 **[Try the Demo on Hugging Face](https://huggingface.co/spaces/SaifTusher/Traditional_Clothing_Recognition)**  
+
 
 
 ## How to use
