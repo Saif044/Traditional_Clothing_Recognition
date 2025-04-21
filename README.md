@@ -107,4 +107,14 @@ A dedicated **web application** has been built that allows users to **interact w
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Saif044/Traditional_Clothing_Recognition.git
-   cd EthnicWearClassify
+   cd Traditional_Clothing_Recognition
+   ```
+2.  **Install dependencies**
+    ```bash
+    pip install -r requirements.txt
+   ```
+3.  **Run the Gradio app**
+    ```bash
+    python app.py
+   ```
+
