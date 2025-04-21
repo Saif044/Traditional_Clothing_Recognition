@@ -81,11 +81,17 @@ epoch	train_loss	valid_loss	error_rate	accuracy	time
 9	    0.046098	0.046974	0.016706	0.983294	01:53
 ```
 
+## 🚀 Deployment
+
+The model is deployed using **Gradio** and hosted on **Hugging Face Spaces**, offering an interactive web-based interface where users can upload images and receive instant classification results.
+
+👉 **[Try the Demo on Hugging Face](https://huggingface.co/spaces/your-username/EthnicWearClassify)**  
+*(Replace with your actual Hugging Face Spaces URL)*
 
 
-## ⚙️ Setup Instructions
+## How to use
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/EthnicWearClassify.git
+   git clone https://github.com/Saif044/Traditional_Clothing_Recognition.git
    cd EthnicWearClassify
