@@ -83,18 +83,11 @@ epoch	train_loss	valid_loss	error_rate	accuracy	time
 
 ## 🚀 Deployment
 
-The model is deployed using **Gradio** and hosted on **Hugging Face Spaces**
+The model is deployed using **Gradio** and hosted on **Hugging Face Spaces**, offering an interactive web-based interface where users can upload images and receive instant classification results.
 
-👉 **[Try the Demo on Hugging Face Space](https://huggingface.co/spaces/SaifTusher/Traditional_Clothing_Recognition)**  
+👉 **[Try the Demo on Hugging Face](https://huggingface.co/spaces/SaifTusher/Traditional_Clothing_Recognition)**  
 
-### 🖼️ Preview
 
-Here are some examples of traditional clothing that the model can classify:
-
-<p align="center">
-  <img src="preview\preview-1.png" alt="Example 1" width="45%" style="margin-right: 10px;"/>
-  <img src="preview\preview-2.png" alt="Example 2" width="45%"/>
-</p>
 
 ## How to use
 
