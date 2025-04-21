@@ -112,5 +112,6 @@ A dedicated **web application** has been built that allows users to **interact w
 2.  **Install dependencies**
     ```bash
     pip install -r requirements.txt
-   ```
+    ```
+    
 3. **Run the Gradio app**
