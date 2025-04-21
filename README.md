@@ -118,3 +118,24 @@ A dedicated **web application** has been built that allows users to **interact w
     ```bash
     python app.py
     ```
+## 🤝 Contributions
+
+Contributions are welcome!  
+If you'd like to improve the project, fix bugs, or suggest new features:
+
+- Fork the repository  
+- Create a new branch  
+- Make your changes  
+- Submit a pull request
+
+## 📜 License
+This project is licensed under the MIT License. See LICENSE for details.
+
+## 📬 Contact
+
+For any questions, feedback, or collaboration inquiries, feel free to reach out:
+
+- 📧 Email: tusheralsaif@gmail.com 
+- 💼 LinkedIn: [Saiful Islam Tuser](https://www.linkedin.com/in/saiful-islam-tuser-aabb3313a/)  
+
+I'd love to hear from you!
